@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>True account of the behaviour, confessions, and last dying words, of Capt. James Watts, Capt. Peter Barnwell, Daniel D'Coiner alias Walker, Richard Jones, and Jane Voss alias Roberts who were executed at Tyburn, on the 19th of December 1684. for robbing on the high way high treason, murther, and fellony, &amp;c. Printed by order, &amp;c.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63303</idno>
+            <idno type="STC">Wing T2352</idno>
+            <idno type="STC">ESTC R219361</idno>
+            <idno type="EEBO-CITATION">99830839</idno>
+            <idno type="PROQUEST">99830839</idno>
+            <idno type="VID">35293</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63303)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35293)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2083:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>True account of the behaviour, confessions, and last dying words, of Capt. James Watts, Capt. Peter Barnwell, Daniel D'Coiner alias Walker, Richard Jones, and Jane Voss alias Roberts who were executed at Tyburn, on the 19th of December 1684. for robbing on the high way high treason, murther, and fellony, &amp;c. Printed by order, &amp;c.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by E.R. for R. Turner at the Star in St. Pauls Church-yard,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1684]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Watts, James, d. 1684 --  Early works to 1800.</term>
+               <term>Barnwell, Peter, d. 1684 --  Early works to 1800.</term>
+               <term>D'Coiner, Daniel, d. 1684 --  Early works to 1800.</term>
+               <term>Jones, Richard, d. 1684 --  Early works to 1800.</term>
+               <term>Voss, Jane, d. 1684 --  Early works to 1800.</term>
+               <term>Last words --  Early works to 1800.</term>
+               <term>Crime --  England --  Early works to 1800.</term>
+               <term>Criminals --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb n="1" facs="tcp:35293:1" rendition="simple:additions"/>
+            <head>TRUE ACCOUNT OF THE BEHAVIOUR, CONFESSIONS, AND Laſt Dying Words, OF Capt. <hi>James Watts,</hi> Capt. <hi>Peter Barnwell, Daniel D' Coiner</hi> alias <hi>Walker, Richard Jones,</hi> and <hi>Jane Voſſ</hi> alias <hi>Roberts,</hi> who were Executed AT TYBURN, On the 19th of <hi>December</hi> 1684. for Robbing on the High way High Treaſon, Murther, and Fellony, <hi>&amp;c.</hi>
+            </head>
+            <p>
+               <hi>Printed by Order,</hi> &amp;c.</p>
+            <p>SAD it is and much to be Lamented, that Perſons Indued with Reaſon and Underſtanding, ſhould abandon themſelves to ſuch Vices, as promt them to their Ruine, no greater Inſtance of which can at any time appear, than what is contained in the following pages, being an Im<g ref="char:EOLhyphen"/>partial Account of the Sufferings, <hi>&amp;c.</hi> of Five Notorious Malefactors, <hi>viz. James Watts, Peter Barnwell, Daniel De Coiner</hi> alias <hi>Walker, Richard Jones,</hi> and <hi>Jane Voſſ</hi> alias <hi>Roberts,</hi> and of theſe their former manner of Life, Behaviour, and Penitency, Laſt Dying Words, <hi>&amp;c.</hi> as they come in Order.</p>
+            <p>
+               <hi>James Watts</hi> and <hi>Peter Barnwell,</hi> were Perſons well Deſcended and Born, eſpe<g ref="char:EOLhyphen"/>cially the former to plentiful Eſtates, but early leaving their Parents, and deſpi<g ref="char:EOLhyphen"/>ſing thoſe ways they propoſed for their happy ſubſiſtance, and being grown up to years of Maturity, addicted themſelves to the Modiſh Gallantry of the Town, and to maintain their Grandure, and keep their Extravagant Humour at Height,
+<pb n="2" facs="tcp:35293:2"/>and ſpent ſo profuſely, that in the end, though by different ways they came to <hi>Acriſis,</hi> yet having Worthy Friends, they procured Places of Command abroad, in the Quality of Captains, being by that means a long time abſent, but their Companies Disbanded they again return'd, and became great Company Keepers, fre<g ref="char:EOLhyphen"/>quenting Gaming, Ordinaries, and ſuch places of Reſort; till at laſt they were taken at <hi>Chelſey,</hi> and brought to <hi>Newgate,</hi> for Robbing <hi>Richard Winlow</hi> on the Highway, on the 16th of <hi>September</hi> 1684 near <hi>Stoaking-Church,</hi> and taking from him and his Wife, a Gelding value 10 <abbr>
+                  <hi>l.</hi>
+               </abbr> together with a Saddle, Money, Beads, Rings, Scarves, and a Handkerchief, which being proved againſt them the laſt Seſſions, they were Convicted, and received Sentence of Death, when being recon<g ref="char:EOLhyphen"/>veyed to <hi>Newgate,</hi> by their Friends they earneſtly laboured for a Pardon, ap<g ref="char:EOLhyphen"/>pearing much dejected, and very deſirous to live, promiſing Amendment of Life, and behaving themſelves very meekly, giving great attention to thoſe that Inſtru<g ref="char:EOLhyphen"/>cted them and their Fellow Convicts, in matters relating to Salvation; owning ſeverally, that they had been grievous Sinners, and were Concious of many No<g ref="char:EOLhyphen"/>torious Crimes of which they heartily repented, deſiring the Pious Prayers of all good Chriſtians, and ſo from day to day as opportunity offered, they continued to conſult, Mr. <hi>Ordinary</hi> and other <hi>Divines</hi> (that out of a Charitable Inclination came to viſit them) about their Immortal Wellfare, till the Fatal Day came, whereon they Suffered.</p>
+            <p>Being put into A Cart together, they were with the reſt Conveyed to the place of Execution, where Ct. <hi>Watts</hi> boldly declared with much Reſolution, this willingneſs to dy reproving a Gentleman for his needleſs ſorrow, who ſeemed greatly concern<g ref="char:EOLhyphen"/>ed at his misfortune, telling him he was altogether willing, and as he hoped pre<g ref="char:EOLhyphen"/>pared for Death, yet would have the Spectators take warning by his untimely and diſgraceful End, which he had often deſerved, but now it was Gods pleaſure, and not till now, to bring him to it, wherefore he as willingly ſubmitted to the pun<g ref="char:EOLhyphen"/>iſhment, being asked by a Divine, What Religion he dyed in, he anſwered in the A<g ref="char:EOLhyphen"/>poſtolick Catholick Religion, according to the Church of <hi>England</hi> as by Law Eſtabliſhed, dying in Charity with all Men, and believing all the Articles of the Chriſtian Faith, hoping in, and relying on, the merits of his dear Redeemer, Ac<g ref="char:EOLhyphen"/>knowledging that Mr. Ordinary as likewiſe other Divines had taken great pains with him, and again expreſſed, a willingneſs to dy, uttering his words very Charefully.</p>
+            <p>Capt. <hi>Barnwel</hi> by Birth, an <hi>Iriſh</hi> Man born in the County of <hi>Dublin,</hi> with a loud voice, deſired the People who thronged in great Numbers to ſee him dy, that they would take Example by him, and above all, beware of bad Company, which had brought him to that place, for he had unhappily fallen into the Society of ſuch as had ruined him, little conſidering at that time the fatal conſequences that attended ſuch a misfortune, often requeſting all that heard him, to let him be a warning to them, and that by his Example they would be warned not to be lead away under specious pretences of Friend ſhip, or hopes of gain, adding he never took any thing out of any Mans Pocket by violence, or uſed him ungently, nor would he abſolutely own his being at the Robery, but being newly come to Town, he was about to depart for <hi>Ireland,</hi> but falling into the Company of di<g ref="char:EOLhyphen"/>vers Perſons, who made ſome overtures to him, he was detained and frequent<g ref="char:EOLhyphen"/>ed their haunts till the time he was taken, yet deſired God to forgive all thoſe through whoſe means he fell into the miſery he was to undergo, Profeſſing him ſelf a <hi>Roman</hi> Catholick, and that he dyed in the Communion of the Church of <hi>Rome,</hi> ſaying he and all his Family and Relations were Loyal to their King, de<g ref="char:EOLhyphen"/>ſireing thoſe that heard him to be ſo likewiſe. Imploreing Gods Bleſſing on the King and Kingdom, as alſo upon his Royal Highneſs and the reſt of the Roy<g ref="char:EOLhyphen"/>al Progeny, wiſhing he had a Thouſand Lives to looſe for them, and many times repeating his misfortune; was occaſioned through his Aſſociating himſelf with bad Company, and as often deſired the Auditors to take notice, he dyed a <hi>Roman</hi> Ca<g ref="char:EOLhyphen"/>tholick, and hoped for Salvation, through the Blood of Jeſus Chriſt, alledging, he did not lately chooſe or embrace that Religion, but had been all along, or at leaſt moſt part of his days brought up in it.</p>
+            <p>
+               <hi>Daniel D' Coiner</hi> a Frenchman by Birth, and a Native as he confeſſed of Brit<g ref="char:EOLhyphen"/>tany, a Province of that Kingdom, having Travelled into divers Parts, and much addicted himſelf to Study the Nature of Mettals, at length came to <hi>Paris,</hi> where
+<pb n="3" facs="tcp:35293:2" rendition="simple:additions"/>he undertook to Refine and Guild Coarſe Mettals, reducing them to a greater Value, getting thereby conſiderably, but not ſo content having received Inſtructi<g ref="char:EOLhyphen"/>ons from one of his Companions, he procured Stamps and other Materials, for Coining counterfeit Money reſembling Gold and Silver, and ſoon grew expert at the trade, ſo that having put divers cheats upon the Tradeſmen and Merchants, and his practices beginning to be diſcovered, he ſome years ſince came for <hi>Eng<g ref="char:EOLhyphen"/>land</hi> with his Wife, and altering his Name to that of <hi>Walker,</hi> fell to Coining <hi>En<g ref="char:EOLhyphen"/>gliſh</hi> Monies, as Guinneys, Half Guinneys, Mill'd Crowns, and Half Crowns, <hi>&amp;c.</hi> and found means by the aſſiſtance of ſeveral Perſons no honeſter than himſelf, to put away great quantities, allowing them conſiderably for their diſpoſing them, as Guinnies at 10 <abbr>
+                  <hi>s.</hi>
+               </abbr> a piece, and 25 <abbr>
+                  <hi>s.</hi>
+               </abbr> of his Counterfeit Mill'd Money to the pound, <hi>viz.</hi> for 20 <abbr>
+                  <hi>s.</hi>
+               </abbr> good, but in the height of his ſecurity, as he was preparing for <hi>Ireland,</hi> to put a cheat upon that Kingdom (as well he might for his pieces were ſo nearly reſembling the true ones, that they would deceive the skillful) he was diſcovered by one of his accomplices, and a conſiderable quantity of the Counterfeits, together with all his Implements taken, ſo that being brought upon his Tryal, although he denyed the active Coining, as likewiſe, the Clipping of King <hi>Charles</hi> the Firſt's Half Crowns, and Queen <hi>Elizabeth</hi> ſhillings, upon plain proofs he was found Guilty of the former, though not of the latter, his Wife who was Tryed with him being Acquitted of both.</p>
+            <p>Receiving Sentence to be Drawn, Hang'd and Quartered, he was carryed back to <hi>Newgate,</hi> and gave himſelf up to Melancholy, much bewailing his unhappy ſtate, yet greatly flattering himſelf with hopes of a Pardon, for that he had diſ<g ref="char:EOLhyphen"/>covered divers Clippers and Coiners, and amongſt the reſt <hi>George Clark</hi> and his Wife, who were Convicted upon his and other Evidence, and that if he might Live, he ſaid he would make greater diſcoveries, but the Warrant being Signed for his Execution, and he deſired to be mindful of the Approaching day of his Diſſolution, and not vainly flatter himſelf with hopes of Life; he betook him fer<g ref="char:EOLhyphen"/>vently to Prayer, confeſſing he had been a great Sinner, and that he had deceiv<g ref="char:EOLhyphen"/>ed many Hundreds, to whom he was not capable of making reſtitution, deſiring God to take pity on him, and not to lay his ſins to his Charge, and that he would find a means to provide for his poor Wife, whom his Miſcarriages had ruined, and ſo continued very ſenſible of Deaths near approach.</p>
+            <p>Arriving at the place of Execution in a Sledge, and there put into the Cart he was tyed up apart from the reſt, and ſtrictly Examined, who with a low Voice, con<g ref="char:EOLhyphen"/>feſſed his Guilt, and deſired God to Pardon him; ſaying, it was for wicked Lucre ſake, that he Committed that great Wickedneſs, imploring thoſe preſent to Pray for him, and joyn with him in Prayer, in order to recommend his Soul to the Searcher of all Hearts, that his Iniquities might be Pardoned and done away, and thereupon he Prayed to himſelf with up lifted Hands, which he was obſerved to do, even to the lateſt moment of his Life, deſiring all Perſons that they would avoid the Sin of Covetouſneſs, which too often proves a ſnare to the Soul, and had brought him to ſhame and confuſion, yet he willingly ſubmitted, and forgave thoſe that had brought him to the Place, where he was to Suffer.</p>
+            <p>
+               <hi>Richard Jones</hi> a Notorious Liver, known to be concerned in many Robberies, and reputed to be of a profuſe Life from his Childhood, ſorting himſelf with di<g ref="char:EOLhyphen"/>vers of no better Fame, and after many eſcapes for ſmall matters emboldened to greater Miſchief, it appeared he had obſerved the dwelling of <hi>Elizabeth Fairbank</hi> an Antient Woman in <hi>Pickad<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lly,</hi> and finding ſhe was conſiderably well to paſs, a Plot was laid againſt her Life, to get her Money and what elſe was of Value, nor ſtudied the Conſpirators long, how to put their reſolves in practice, for on the Fatal 20th of <hi>April</hi> laſt, the aforeſaid <hi>Richard Jones, Charles Tooly,</hi> and <hi>John Wiſe,</hi> entring ſomewhat late, under pretence of Drinking or ſome ſuch like occa<g ref="char:EOLhyphen"/>ſion, two of them Murthered her by twiſting her Neck, ſtopping her Mouth with Handkerchiefs, and bruſing her in divers places, whilſt the other ſtood Centry, and taking all they thought convenient fled; but the Murther being rumored a<g ref="char:EOLhyphen"/>broad, and the Murtherers Guilty Conſciences accuſing them, they Fled into <hi>Hol<g ref="char:EOLhyphen"/>land</hi> and <hi>Flanders,</hi> the Priſoner ſaying, if he was taken he ſhould Dye for it, it appearing, he had been Burnt in the Hand formerly, for ſtealing Perukes, but <hi>Tooly</hi> dying beyond the Seas, and Guilty Conſciences ſtill haunting the other Par<g ref="char:EOLhyphen"/>ties, they could not reſt till they returned, when <hi>Tooly's</hi> Wife diſcloſing the Murther, and what happened thereupon, <hi>John Wiſe</hi> was the laſt Quarter-Seſſions
+<pb n="4" facs="tcp:35293:3"/>Condemned and Executed, and <hi>Richard Jones</hi> ſince taken Condemned and Senten<g ref="char:EOLhyphen"/>ced the Seſſions following, not being able to make any conſiderable defence, tho he faintly denyed the Fact, Sentence of Death paſt, and he remanded, he appear<g ref="char:EOLhyphen"/>ed much dejected as being out of all hopes of a Pardon, his Crime being too ha<g ref="char:EOLhyphen"/>nious to admit of Mercy, wherefore Mr. Ordinary and divers other Miniſters la<g ref="char:EOLhyphen"/>boured with him to bring him to a right underſtanding of the ſad condition he was in, which miſchief his ſins had brought upon him <hi>&amp;c.</hi> to whoſe advice he ſeriouſly hearke<g ref="char:EOLhyphen"/>ning ſeemed greatly concerned about Eternal matters relating to the Salvation of his Soul, asking as an illiterate perſon, many queſtions and ſatisfying himſelf as much as he was capable in the Miſtery of the future ſtate <hi>&amp;c.</hi>
+            </p>
+            <p>At the Place of Execution, being urged to confeſs the Murther, not only by Mr. Ordinary, but by <hi>Jane Voſſ</hi> his Fellow Sufferer, and likewiſe his Father in Law he anſwered doubtfully to their demands, although they reitterated their intrea<g ref="char:EOLhyphen"/>ties, laying before him the danger of Concealing a known Crime, and minding him he ſhortly muſt appear before his Maker, yet could they not get the ſecret from him, although he appeared very Penitent, Praying often and deſiring the Pray<g ref="char:EOLhyphen"/>ers of others, and that God would pardon his ſins, and forgive all his Treſpaſſes, as he freely forgave the whole World, ſubmitting to what the Law had allotted, owning he had many great and grievous Crimes, that had called down vengeance on him, and that Gods Judgments had juſtly overtaken him.</p>
+            <p>
+               <hi>Jane <g ref="char:V">Ʋ</g>oſs</hi> alias <hi>Roberts,</hi> ſo notorious for ſhoplifting and other Roberies of the like nature, that to name her might be enough to give the Reader a Character of her life whoſe frequent felonies and often Convictions have made her known to moſt in and about <hi>London,</hi> ſhe having been above 12 times in <hi>Newgate,</hi> and ſeveral times Condemned to dye, <hi>&amp;c.</hi> but the Fatal one happened in <hi>April</hi> laſt, for ſtealing a Tankard, <hi>&amp;c.</hi> when uſing her former Artifices, in hopes to gain time in order to procure a Pardon, ſhe having drunk about a Gallon of New Ale and Honey, Pleaded her Belly, and upon inquiry of Women, was returned to be with quick Child, but lying in <hi>Newgate</hi> and no ſuch thing appearing, ſhe was brought to the Seſſions Houſe the laſt Seſſions, and ordered to be Executed on her former Sen<g ref="char:EOLhyphen"/>tance, upon which being much conſternated, ſhe uſed many endeavours to pro<g ref="char:EOLhyphen"/>cure a Reprieve or Pardon, applying her ſelf by her Friends to ſeveral Perſons of Quality, but her Offences being ſo many and former Grace and Mercy, not being of force to Reclaim her, no place was found for ſuch a favour, which ſhe perceiving, greatly lamented her unhappy ſtate, and promiſed amendment if her days might be prolonged, deſiring the Prayers of all good People, but above all, grieved that ſhe had been the cauſe of many falling into bad courſes, which had brought them to untimely ends, for according to report no leſs than 7 Perſons, whom had paſſed for her Husbands, have at ſeveral times been Executed for Ro<g ref="char:EOLhyphen"/>beries, <hi>&amp;c.</hi> the fatal day come, and ſhe brought to the Place appointed.</p>
+            <p>Being asked, how ſhe found her ſelf as to her Eternal ſtate, ſhe chearfully anſwer<g ref="char:EOLhyphen"/>ed never better, for through Chriſts Merits, and a firm Relyance on him by Faith, ſhe doubted not of her Salvation; ſaying, it was true ſhe was a great Sinner, and had many times narrowly eſcaped, but now it was come home to her, and yet death was not ſo terrible, as ſhe formerly ſuppoſed it, adding, that ſhe had once ſome hopes of a Pardon, but that vaniſhing, ſhe betook her ſelf more ear<g ref="char:EOLhyphen"/>neſtly to Prayer, and that her conſcience told her, God had heard her, and had Compaſſion on her, and that it was a Mercy ſhe had ſo much time to repent.</p>
+            <p>Thus far each having had free Licence to ſpeak, <hi>&amp;c.</hi> Mr. Ordinary Prayed earneſtly with them, as likewiſe did ſeveral other Divines then preſent, admoniſh<g ref="char:EOLhyphen"/>ing them to recommend their Souls into the Hands of their Merciful Redeemer, when (after the Captains had diſpoſed of what they thought fit to their Friends, and deſired to be Buried both in one Grave, the <hi>Pſalme</hi> likewiſe ſung) the Cart drew away, leaving them in the Armes of Death to paſs into a vaſt Eternity, in hopes of a Life more laſting, than that which Juſtice had deprived them off, for their Offences.</p>
+            <p>
+               <hi>Whereas ſince the laſt Seſſions there have been Publiſhed divers falſe accounts of the Execution of the Priſoners, pretended to be their laſt Confeſſions when indeed Printed be<g ref="char:EOLhyphen"/>fore they went to be Executed, Theſe are Therefore to give notice that the true account Printed by Order will come forth for the Future, in The name of the Publiſher hereof the Morning after the ſaid Executions, which is as ſoon as any true account can be Printed.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>E. R.</hi> for <hi>R. Turner</hi> at the Star in St. <hi>Pauls Church-yard.</hi> 1684.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
